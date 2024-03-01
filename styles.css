@@ -1,14 +1,14 @@
 
-body{background-color:maroon;}
+body{background-color:rgb(40, 48, 48);}
 
-h1,h2,h3,li{color:coral;}
-h1{background-color: red;}
+h1,h2,h3,li,p{color:white;}
+h1{background-color: #3d5050;}
 
 h1{font-size:45px;}
 h2{font-size:35px;}
 h3{font-size:25px;}
 
-li{font-size:20px;}
+li{font-size:15px;}
 
 span.a {
     display: inline;
